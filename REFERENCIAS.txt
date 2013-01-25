@@ -1,3 +1,9 @@
+PDF Report
+
+http://phpbrasil.com/artigo/CPeC0opcowhv/2/criando-relatorios-no-formato-pdf
+http://www.pdflib.com/pdflib-gmbh/
+http://henriquecorrea.com/news/Relatorios_em_PDF_com_PHP_usando_a_classe_FPDF
+
 NODE JS
 
 http://mateussouzaweb.com/blog/nodejs/tutorial-instalando-nodejs-no-windows
