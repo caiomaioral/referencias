@@ -185,6 +185,7 @@ PHP
 http://net.tutsplus.com/tutorials/php/6-codeigniter-hacks-for-the-masters/
 http://www.9lessons.info/2012/05/login-with-instagram-php.html
 http://imasters.com.br/artigo/16673/zend/integrando-o-doctrine-com-o-zend-framework/
+http://www.phpbrasil.com/articles/article.php/id/1097
 
 MYSQL
 
