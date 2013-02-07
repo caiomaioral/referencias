@@ -196,3 +196,5 @@ http://blog.builtbyprime.com/security/csrf-protection-in-code-igniter-using-form
 MYSQL
 
 http://www.dicas-l.com.br/freedb/freedb_20060917.php#.UNXRBHfN6So
+http://www.passoapasso.info/diversos/eliminandoapagando-registros-duplicados-no-mysql.html
+http://www.bughunter.com.br/deletando-registros-duplicados-no-mysql
