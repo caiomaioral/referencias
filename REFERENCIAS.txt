@@ -186,6 +186,9 @@ http://www.100loop.com/desenvolvimento/criando-um-dropdown-em-mvc3/
 http://www.c-sharpcorner.com/uploadfile/b19d5a/dropdownlist-in-Asp-Net-mvc-3-razor-with-entity-framework/
 http://pedrofernandes.net/
 http://blog.lzsolucoes.com.br/2011/05/05/validacao-de-campos-net-mvc-3-data-annotations-extensions/
+http://www.dailyfreecode.com/Code/code-first-existing-database-poco-class-3382.aspx
+http://robdmoore.id.au/blog/2012/04/27/unobtrusive-validation-in-asp-net-mvc-3-and-4/
+http://forums.asp.net/t/1651961.aspx/1
 
 PHP
 
