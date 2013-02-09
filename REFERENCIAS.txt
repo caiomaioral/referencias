@@ -1,6 +1,7 @@
 JS
 
 http://www.milaneze.com.br/post/2012/09/23/Mostrar-Overlay-em-tela-cheia-com-Ajax.aspx
+http://growingtech.blogspot.com.br/2012/06/passing-extra-parameters-with.html
 
 PDF Report
 
