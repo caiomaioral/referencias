@@ -189,6 +189,10 @@ http://blog.lzsolucoes.com.br/2011/05/05/validacao-de-campos-net-mvc-3-data-anno
 http://www.dailyfreecode.com/Code/code-first-existing-database-poco-class-3382.aspx
 http://robdmoore.id.au/blog/2012/04/27/unobtrusive-validation-in-asp-net-mvc-3-and-4/
 http://forums.asp.net/t/1651961.aspx/1
+http://dotnetslackers.com/articles/aspnet/Protect-ASP-NET-MVC-3-Applications-Using-AntiForgery-Helpers.aspx
+http://www.macoratti.net/12/07/mvc_flt1.htm
+http://romiller.com/tag/code-first/
+http://msdn.microsoft.com/pt-br/magazine/hh708755.aspx
 
 PHP
 
