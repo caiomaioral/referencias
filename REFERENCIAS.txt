@@ -8,6 +8,10 @@ PDF Report
 http://phpbrasil.com/artigo/CPeC0opcowhv/2/criando-relatorios-no-formato-pdf
 http://www.pdflib.com/pdflib-gmbh/
 http://henriquecorrea.com/news/Relatorios_em_PDF_com_PHP_usando_a_classe_FPDF
+http://henriquecorrea.blogspot.com.br/2008/08/relatrios-em-pdf-com-php-usando-classe.html
+http://code.google.com/p/dompdf/
+http://www.botecodigital.info/php/criando-arquivos-pdf-com-php-e-classe-fpdf/
+http://www.fpdf.org/
 
 NODE JS
 
@@ -105,6 +109,7 @@ http://www.splashnology.com/article/45-new-jquery-plugins-for-web-developers/591
 http://speckyboy.com/2012/04/10/40-recently-released-jquery-plugins/
 http://johnpolacek.github.com/scrolldeck.js/decks/responsive/
 http://jquery.malsup.com/block/
+http://datatablesmvc.codeplex.com/documentation
 
 MVC C#
 
