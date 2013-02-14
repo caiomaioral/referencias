@@ -12,6 +12,7 @@ http://henriquecorrea.blogspot.com.br/2008/08/relatrios-em-pdf-com-php-usando-cl
 http://code.google.com/p/dompdf/
 http://www.botecodigital.info/php/criando-arquivos-pdf-com-php-e-classe-fpdf/
 http://www.fpdf.org/
+http://nagbaba.blogspot.com.br/2010/03/using-fpdf-library-with-codeigniter.html
 
 NODE JS
 
