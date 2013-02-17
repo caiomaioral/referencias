@@ -199,6 +199,7 @@ http://dotnetslackers.com/articles/aspnet/Protect-ASP-NET-MVC-3-Applications-Usi
 http://www.macoratti.net/12/07/mvc_flt1.htm
 http://romiller.com/tag/code-first/
 http://msdn.microsoft.com/pt-br/magazine/hh708755.aspx
+http://usingdotnet.wordpress.com/2011/09/07/asp-net-mvc-templates-com-razor-sections/
 
 PHP
 
@@ -207,6 +208,7 @@ http://www.9lessons.info/2012/05/login-with-instagram-php.html
 http://imasters.com.br/artigo/16673/zend/integrando-o-doctrine-com-o-zend-framework/
 http://www.phpbrasil.com/articles/article.php/id/1097
 http://blog.builtbyprime.com/security/csrf-protection-in-code-igniter-using-form-tokens
+http://aymsystems.com/ajax-csrf-protection-codeigniter-20
 
 MYSQL
 
