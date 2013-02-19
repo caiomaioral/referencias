@@ -13,6 +13,9 @@ http://code.google.com/p/dompdf/
 http://www.botecodigital.info/php/criando-arquivos-pdf-com-php-e-classe-fpdf/
 http://www.fpdf.org/
 http://nagbaba.blogspot.com.br/2010/03/using-fpdf-library-with-codeigniter.html
+http://tidoc.wordpress.com/2008/04/21/gerando-documentos-pdf-com-fpdf-parte-01/
+http://fabsoft.blogspot.com.br/2011/06/fpdf-e-php.html
+http://henriquecorrea.com/news/Relatorios_em_PDF_com_PHP_usando_a_classe_FPDF
 
 NODE JS
 
