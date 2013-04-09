@@ -1,3 +1,10 @@
+HEROKU
+
+https://devcenter.heroku.com/articles/quickstart#step-4-deploy-an-application
+http://pablocantero.com/blog/2010/08/21/criando-uma-aplicacao-no-heroku/
+http://www.pinceladasdaweb.com.br/blog/2013/03/01/como-fazer-deploy-de-apps-para-o-heroku/
+http://forum.imasters.com.br/topic/466247-push-no-heroku/
+
 JS
 
 http://www.milaneze.com.br/post/2012/09/23/Mostrar-Overlay-em-tela-cheia-com-Ajax.aspx
