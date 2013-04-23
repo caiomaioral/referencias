@@ -1,3 +1,8 @@
+COFFEE SCRIPT
+
+http://coffeescript.org/#usage
+https://npmjs.org/
+
 HEROKU
 
 https://devcenter.heroku.com/articles/quickstart#step-4-deploy-an-application
@@ -88,6 +93,7 @@ http://globocom.github.com/bootstrap/index.html
 
 jQuery
 
+http://wolframhempel.github.io/photobooth-js/#Usage
 http://www.amazingthings.in/2012/02/new-jquery-plugins-2012.html
 http://www.webstuffshare.com/2012/02/creating-next-level-search-form-using-jquery-css3/
 http://www.sequencejs.com/themes/sliding-horizontal-parallax/
