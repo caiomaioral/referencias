@@ -39,6 +39,7 @@ http://nodejs.org/docs/v0.3.7/api/index.html
 IIS
 
 http://www.iis.net/learn/extensions/url-rewrite-module/importing-apache-modrewrite-rules
+http://www.sitepoint.com/sql-server-php/
 
 MOCKUP
 
