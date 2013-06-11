@@ -142,6 +142,8 @@ http://speckyboy.com/2012/04/10/40-recently-released-jquery-plugins/
 http://johnpolacek.github.com/scrolldeck.js/decks/responsive/
 http://jquery.malsup.com/block/
 http://datatablesmvc.codeplex.com/documentation
+http://tympanus.net/Blueprints/ScrollingLayout/
+http://www.oesmith.co.uk/morris.js/
 
 MVC C#
 
