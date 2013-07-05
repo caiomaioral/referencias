@@ -1,6 +1,7 @@
 JZEBRA
 
 http://code.google.com/p/jzebra/wiki/TutorialWebApplet
+https://code.google.com/p/jzebra/
 
 HTML5 REFERENCIAS
 http://www.kiawahisland.com/
@@ -249,6 +250,7 @@ http://imasters.com.br/artigo/16673/zend/integrando-o-doctrine-com-o-zend-framew
 http://www.phpbrasil.com/articles/article.php/id/1097
 http://blog.builtbyprime.com/security/csrf-protection-in-code-igniter-using-form-tokens
 http://aymsystems.com/ajax-csrf-protection-codeigniter-20
+http://wideimage.sourceforge.net/old/opResize
 
 MYSQL
 
