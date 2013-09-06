@@ -1,3 +1,9 @@
+FACEBOOK
+
+http://brynner.net/login-com-facebook-utilizando-php
+https://www.facebook.com/about/privacy/your-info#public-info
+https://developers.facebook.com/docs/reference/api/selecting-results/
+
 JZEBRA
 
 http://code.google.com/p/jzebra/wiki/TutorialWebApplet
