@@ -117,6 +117,7 @@ http://foundation.zurb.com/
 http://www.webdesignshock.com/responsive-design/
 http://twitter.github.com/bootstrap/
 http://globocom.github.com/bootstrap/index.html
+http://dicashtml5css3.blogspot.com.br/2012/03/validacao-de-formularios-com-html5.html
 
 jQuery
 
