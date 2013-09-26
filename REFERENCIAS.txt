@@ -261,6 +261,8 @@ http://www.phpbrasil.com/articles/article.php/id/1097
 http://blog.builtbyprime.com/security/csrf-protection-in-code-igniter-using-form-tokens
 http://aymsystems.com/ajax-csrf-protection-codeigniter-20
 http://wideimage.sourceforge.net/old/opResize
+http://www.ibm.com/developerworks/br/library/os-phpexcel/index_94956.html
+http://codeigniterbrasil.com/integracao/validacao-com-codeigniter-twitter-bootstrap-e-jquery-validation-plugin/
 
 MYSQL
 
