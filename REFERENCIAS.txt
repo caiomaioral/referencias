@@ -162,6 +162,7 @@ http://www.oesmith.co.uk/morris.js/
 http://www.scriptcam.com/index.cfm
 http://coding.smashingmagazine.com/2011/09/23/create-an-animated-bar-graph-with-html-css-and-jquery/
 http://jquery-plugins.net/
+http://mbanagouro.net/site/2011/05/02/criando-elementos-html-com-jquery/
 
 MVC C#
 
