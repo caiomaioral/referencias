@@ -1,6 +1,8 @@
 TEMPLATES
 
 http://themeforest.net/
+http://mattbango.com/demos/hover-zoom/
+http://www.freshdesignweb.com/image-hover-effects.html
 
 FACEBOOK
 
