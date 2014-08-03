@@ -1,3 +1,11 @@
+MVC C#
+
+http://www.asp.net/web-api/overview/security/enabling-cross-origin-requests-in-web-api
+
+SLIM FRAMEWORK
+
+http://imasters.com.br/linguagens/php/aprenda-a-usar-o-restful-com-php-e-slim-framework/
+
 TEMPLATES
 
 http://startbootstrap.com/
