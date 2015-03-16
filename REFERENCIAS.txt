@@ -184,6 +184,8 @@ http://mbanagouro.net/site/2011/05/02/criando-elementos-html-com-jquery/
 
 MVC C#
 
+http://www.asp.net/mvc/overview/security
+http://www.schiffhauer.com/mvc-5-and-active-directory-authentication/
 http://carloscds.net/2011/08/ef-code-first-acessando-stored-procedures/
 http://blogs.msdn.com/b/wriju/archive/2011/05/14/code-first-4-1-using-stored-procedure-to-insert-data.aspx
 http://prashantbrall.wordpress.com/2011/05/10/ef-code-firstexecuting-stored-procedure/
